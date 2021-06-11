@@ -1,1 +1,81 @@
 
+body {background-color: #f85802
+}
+
+#top-nav {background-color: rgb(134, 3, 3);line-height: 0px;
+;
+}
+
+#top-nav p {display:inline-block;
+    width:110px; margin-top: 0px;
+}
+#top-nav a {color: white; word-spacing: 4px;}
+
+#search {background-color: #4e4c4c;}
+#search input {display: inline-block; width: 650px; height: 30px; margin-left: 60px}
+#picright {float:right; margin-left: 80px}
+#picright2 {float:right; margin-left: 60px;}
+#picright3 {margin-left:55px}
+
+
+#category {background-color: #322d2d;line-height:0px}
+#category p {display: inline-block; width: 100px; }
+#category a {color: #db0404;}
+
+#buttons {background-color: #ea4a0b; line-height:100px; text-align: center}
+#buttons p {display:inline-block;width: 184px;}
+#buttons a {color:black}
+#btn1 {border: 1px }
+#btn1:hover{color: bisque;}
+
+
+
+#crumb {margin-left:70px; margin-top: 50px}
+#crumb2 {position: absolute; left:800px; top:280px;}
+#crumb3 {position: absolute; left:800px; top:393px;}
+#crumb4 {position: absolute; left:800px; top:518px;}
+
+
+
+
+
+
+
+
+#headlines {float:right}
+#headlines h1{position: absolute; top: 275px; right: 60px;}
+#headlines li{position: absolute; top: 350px; right: 60px;}
+#headlines a {color:black}
+
+#headlines2 {float:right}
+#headlines2 li{position: absolute; top: 375px; right: 60px;}
+#headlines2 a {color:black}
+
+#headlines3 {float:right}
+#headlines3 li {position: absolute; top: 400px; right: 60px; }
+#headlines3 a {color:black}
+
+#headlines4 {float:right}
+#headlines4 li{position: absolute; top: 425px; right: 60px; }
+#headlines4 a {color:black}
+
+#headlines5 {float:right}
+#headlines5 li{position: absolute; top: 450px; right:60px; }
+#headlines5 a {color:black}
+
+#headlines6 {float:right}
+#headlines6 li{position: absolute; top: 475px; right:60px; }
+#headlines6 a {color:black}
+
+#headlines7 {float:right}
+#headlines7 li{position: absolute; top: 500px; right:60px; }
+#headlines7 a {color:black}
+
+#headlines8 {float:right}
+#headlines8 li{position: absolute; top: 525px; right:60px; }
+#headlines8 a {color:black}
+
+#headlines9 {float:right}
+#headlines9 li{position: absolute; top: 550px; right:60px; }
+#headlines9 a {color:black}
+
